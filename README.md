@@ -22,3 +22,7 @@
 В итоге вашей работы должен получить примерно такой сайт:
 
 ![](https://lh6.googleusercontent.com/Buu77wtCI7KlK8VRmn-3foy6mpc8hjATz6zsMaDi-Mqahh1im6oZUnynmK-MtQf8Qs66wSwKgfd984ebiDaJO8GNcMe-YDtys7GHUG3745Qikl9QZ3DUykNDwI4uUdvvJlMlkFbZ)​​
+
+### Полезные ссылки:
+   
+1.  [Макет](https://www.figma.com/file/xgE9Efr5njC5VnIvB9HBOz/PCRJS?node-id=200%3A77)
