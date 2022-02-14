@@ -25,4 +25,4 @@
 
 ### Полезные ссылки:
    
-1.  [Макет](https://www.figma.com/file/xgE9Efr5njC5VnIvB9HBOz/PCRJS?node-id=200%3A77)
+1.  [Макет](https://www.figma.com/file/xgE9Efr5njC5VnIvB9HBOz/PCRJS?node-id=10%3A4)
